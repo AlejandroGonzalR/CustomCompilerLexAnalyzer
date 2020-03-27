@@ -1,0 +1,19 @@
+# MacOS
+.DS_Store
+
+# Yacc
+src/lex.yy.c
+src/y.tab.c
+src/y.tab.h
+out/
+
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# User-specific stuff
+.idea/
+**/.idea/
+.idea
+*.iml

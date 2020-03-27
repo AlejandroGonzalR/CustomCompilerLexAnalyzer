@@ -1,0 +1,7 @@
+src/todo.txt
+src/lex.yy.c
+src/parser.output
+src/parser.tab.c
+src/parser.tab.h
+src/lex.yy.o
+src/parser.tab.
