@@ -1,0 +1,29 @@
+let a : text -> "test"
+var _validator : binary -> false
+let newYear : numeric -> 4
+
+sincee iterator -> 1 until 5 step 1 { 
+	2 mod 2 
+}
+
+since i -> 1 until 5 step 1 { 
+	3 + 1 
+}
+
+cond ( 1 > 2 ) {
+    2 + 1
+} so {
+    4 + 4
+}
+
+fun method () {
+    show(6 + 3)
+}
+
+loop (1) {
+    show(5 - 3)
+}
+
+act {
+    2 + 1
+} loop (2 > 1)
